@@ -28,3 +28,7 @@ This implementation of the PSO algorithm provides several parameters that you ca
 - c1: the cognitive parameter, which controls the weight of the particle's own experience (default:0.50)
 - c2: the social parameter, which controls the weight of the swarm's experience (default: 0.5)
 - w: the inertia weight, which controls the particle's tendency to follow its previous velocity (default: 0.7298)
+
+## Outputs
+![Output_1](https://github.com/MuthuPalaniappan925/Swarmify/blob/main/Outputs/Output_1.png)
+![Output_2](https://github.com/MuthuPalaniappan925/Swarmify/blob/main/Outputs/Output_2.png)
