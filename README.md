@@ -11,6 +11,9 @@ The PSO algorithm is a metaheuristic optimization technique that is based on the
 
 The PSO algorithm has several advantages over other optimization techniques, such as its simplicity, efficiency, and ability to find global optima in multi-modal search spaces. It has been successfully applied to a wide range of problems, including feature selection, image segmentation, clustering, and parameter tuning, among others.
 
+## Link to Demo
+https://muthupalaniappan925-swarmify-app-g7lxk1.streamlit.app/
+
 ## Requirements
 
 - NumPy
